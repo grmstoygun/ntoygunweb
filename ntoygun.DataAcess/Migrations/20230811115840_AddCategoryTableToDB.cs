@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace ntoygunweb.Migrations
+namespace ntoygun.DataAcess.Migrations
 {
     /// <inheritdoc />
     public partial class AddCategoryTableToDB : Migration

@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using ntoygunweb.Models;
+using ntoygun.Models;
 using System.Diagnostics;
 
 namespace ntoygunweb.Controllers

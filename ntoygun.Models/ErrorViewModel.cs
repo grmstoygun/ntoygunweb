@@ -1,4 +1,4 @@
-namespace ntoygunweb.Models
+namespace ntoygun.Models
 {
     public class ErrorViewModel
     {

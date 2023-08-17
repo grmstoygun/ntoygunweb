@@ -1,8 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Metadata;
-using ntoygunweb.Models;
+using ntoygun.Models;
 
-namespace ntoygunweb.Data
+namespace ntoygun.DataAcess.Data
 {
     public class ApplicationDbContext : DbContext
     {

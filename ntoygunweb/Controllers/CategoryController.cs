@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using ntoygunweb.Data;
-using ntoygunweb.Models;
+using ntoygun.Models;
+using ntoygun.DataAcess.Data;
 
 namespace ntoygunweb.Controllers
 {

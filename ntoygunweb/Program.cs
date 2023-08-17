@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using ntoygunweb.Data;
+using ntoygun.DataAcess.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
