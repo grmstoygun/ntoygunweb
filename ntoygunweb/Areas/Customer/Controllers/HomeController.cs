@@ -2,8 +2,9 @@ using Microsoft.AspNetCore.Mvc;
 using ntoygun.Models;
 using System.Diagnostics;
 
-namespace ntoygunweb.Controllers
+namespace ntoygunweb.Areas.Customer.Controllers
 {
+    [Area("Customer")]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
