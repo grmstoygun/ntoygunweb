@@ -20,7 +20,7 @@ namespace ntoygun.DataAcess.Repository
 
         public void Update(Product obj)
         {
-            _db.Products.Update(obj);
+            _db.Product.Update(obj);
         }
     }
 }
